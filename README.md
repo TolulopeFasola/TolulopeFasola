@@ -3,7 +3,7 @@
 👋 Hi, I'm Tolulope Fasola! Specializing in data analysis with skills in data visualization, MySQL, Python, Excel, Tableau, and statistics. I excel at transforming data into actionable insights for informed decision-making.
 
 I am open to work. Please reach out to me.
-Get in touch linkedin http://linkedin.com/in/tolulope-fasola-38443b187
+Get in touch [linkedIn](http://linkedin.com/in/tolulope-fasola-38443b187)
 
 
 <!---
